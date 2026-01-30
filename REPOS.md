@@ -42,7 +42,6 @@ This is an automatically generated file. See `scripts/readme`
 - [connectivity](https://github.com/pop-os/connectivity) - The Pop\!\_OS Connectivity Checker
 - [console\-setup](https://github.com/pop-os/console-setup) - Fork of https://salsa\.debian\.org/installer\-team/console\-setup
 - [core](https://github.com/pop-os/core) - WIP immutable base
-- [cosmic](https://github.com/pop-os/cosmic) - GNOME Shell extension\. See cosmic\-epoch for COSMIC Epoch
 - [cosmic\-app\-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
 - [cosmic\-applet\-host](https://github.com/pop-os/cosmic-applet-host)
 - [cosmic\-applet\-template](https://github.com/pop-os/cosmic-applet-template) - Project template for creating applets for the COSMIC™ desktop
@@ -144,6 +143,7 @@ This is an automatically generated file. See `scripts/readme`
 - [gnome\-shell\-extension\-do\-not\-disturb](https://github.com/pop-os/gnome-shell-extension-do-not-disturb) - Enable or disable do not disturb mode\.
 - [gnome\-shell\-extension\-gsconnect](https://github.com/pop-os/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [gnome\-shell\-extension\-pop\-battery\-icon\-fix](https://github.com/pop-os/gnome-shell-extension-pop-battery-icon-fix) - Fixes the battery icon in Pop\!\_OS to correctly match the current battery level\.
+- [gnome\-shell\-extension\-pop\-cosmic](https://github.com/pop-os/gnome-shell-extension-pop-cosmic) - GNOME Shell extension\. See cosmic\-epoch for COSMIC Epoch
 - [gnome\-shell\-extension\-pop\-shop\-details](https://github.com/pop-os/gnome-shell-extension-pop-shop-details) - Adds a Show Details item to applications if Pop Shop is installed
 - [gnome\-shell\-extension\-pop\-snapshot](https://github.com/pop-os/gnome-shell-extension-pop-snapshot) - A simple GNOME Shell extension for notifying the user when a snapshot is restored
 - [gnome\-shell\-extension\-pop\-suspend\-button](https://github.com/pop-os/gnome-shell-extension-pop-suspend-button) - GNOME Shell Extension Suspend\-Button
@@ -187,7 +187,7 @@ This is an automatically generated file. See `scripts/readme`
 - [libabigail](https://github.com/pop-os/libabigail) - Pop\!\_OS fork of https://launchpad\.net/ubuntu/\+source/libabigail
 - [libasound2](https://github.com/pop-os/libasound2) - The Advanced Linux Sound Architecture \(ALSA\) \- library
 - [libbpf](https://github.com/pop-os/libbpf) - Pop\!\_OS fork of https://github\.com/sudipm\-mukherjee/libbpf
-- [libcosmic](https://github.com/pop-os/libcosmic) - WIP library for COSMIC applications
+- [libcosmic](https://github.com/pop-os/libcosmic) - GUI platform toolkit for developing COSMIC applications and applets
 - [libcosmic\-book](https://github.com/pop-os/libcosmic-book) - Guide for starting development with libcosmic: https://pop\-os\.github\.io/libcosmic\-book/
 - [libdrm](https://github.com/pop-os/libdrm) - Backport of https://salsa\.debian\.org/xorg\-team/lib/libdrm
 - [libhandy](https://github.com/pop-os/libhandy) - Read\-only mirror of https://gitlab\.gnome\.org/GNOME/libhandy
@@ -197,9 +197,10 @@ This is an automatically generated file. See `scripts/readme`
 - [libtraceevent](https://github.com/pop-os/libtraceevent) - Backport of https://packages\.ubuntu\.com/noble/libtraceevent\-dev
 - [libtracefs](https://github.com/pop-os/libtracefs) - Backport of https://packages\.ubuntu\.com/noble/libtracefs1
 - [libvdpau](https://github.com/pop-os/libvdpau) - Backported dependency of mesa from https://salsa\.debian\.org/nvidia\-team/libvdpau
+- [libwnck3](https://github.com/pop-os/libwnck3) - Packaging based on https://salsa\.debian\.org/gnome\-team/libwnck3
 - [libxmlb](https://github.com/pop-os/libxmlb) - Debian packaging for bionic
 - [linux](https://github.com/pop-os/linux) - Pop\!\_OS fork of https://launchpad\.net/ubuntu/\+source/linux
-- [linux\-firmware](https://github.com/pop-os/linux-firmware) - Pop\!\_OS fork of https://git\.launchpad\.net/~ubuntu\-kernel/ubuntu/\+source/linux\-firmware
+- [linux\-firmware](https://github.com/pop-os/linux-firmware) - Pop\!\_OS fork of https://git\.launchpad\.net/ubuntu/\+source/linux\-firmware
 - [logind\-dbus](https://github.com/pop-os/logind-dbus) - Rust crate that provides a DBus API for interacting with logind, which is useful for doing things such as inhibiting suspension\.
 - [lutris](https://github.com/pop-os/lutris) - Packaging for https://github\.com/lutris/lutris
 - [mesa](https://github.com/pop-os/mesa) - Forked from https://salsa\.debian\.org/xorg\-team/lib/mesa
@@ -216,7 +217,7 @@ This is an automatically generated file. See `scripts/readme`
 - [nvidia\-container\-runtime](https://github.com/pop-os/nvidia-container-runtime) - Packaging fork of https://gitlab\.com/nvidia/container\-toolkit/nvidia\-container\-runtime/
 - [nvidia\-container\-toolkit](https://github.com/pop-os/nvidia-container-toolkit) - Packaging fork of https://gitlab\.com/nvidia/container\-toolkit/container\-toolkit
 - [nvidia\-docker](https://github.com/pop-os/nvidia-docker) - Packaging for https://github\.com/NVIDIA/nvidia\-docker
-- [nvidia\-graphics\-drivers](https://github.com/pop-os/nvidia-graphics-drivers) - Pop\!\_OS NVIDIA Graphics Drivers
+- [nvidia\-graphics\-drivers](https://github.com/pop-os/nvidia-graphics-drivers) - NVIDIA packaging repository for Pop\!\_OS
 - [nvidia\-graphics\-drivers\-470](https://github.com/pop-os/nvidia-graphics-drivers-470) - Pop\!\_OS Legacy NVIDIA Graphics Drivers \(470\)
 - [nvidia\-vaapi\-driver](https://github.com/pop-os/nvidia-vaapi-driver) - Packaging fork of https://github\.com/elFarto/nvidia\-vaapi\-driver
 - [opt](https://github.com/pop-os/opt) - Pop\!\_OS Optimization

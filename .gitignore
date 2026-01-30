@@ -53,7 +53,6 @@
 /connectivity/
 /console-setup/
 /core/
-/cosmic/
 /cosmic-app-template/
 /cosmic-applet-host/
 /cosmic-applet-template/
@@ -155,6 +154,7 @@
 /gnome-shell-extension-do-not-disturb/
 /gnome-shell-extension-gsconnect/
 /gnome-shell-extension-pop-battery-icon-fix/
+/gnome-shell-extension-pop-cosmic/
 /gnome-shell-extension-pop-shop-details/
 /gnome-shell-extension-pop-snapshot/
 /gnome-shell-extension-pop-suspend-button/
@@ -208,6 +208,7 @@
 /libtraceevent/
 /libtracefs/
 /libvdpau/
+/libwnck3/
 /libxmlb/
 /linux/
 /linux-firmware/
