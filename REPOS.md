@@ -42,11 +42,11 @@ This is an automatically generated file. See `scripts/readme`
 - [connectivity](https://github.com/pop-os/connectivity) - The Pop\!\_OS Connectivity Checker
 - [console\-setup](https://github.com/pop-os/console-setup) - Fork of https://salsa\.debian\.org/installer\-team/console\-setup
 - [core](https://github.com/pop-os/core) - WIP immutable base
+- [cosmic\-app\-library](https://github.com/pop-os/cosmic-app-library) - WIP
 - [cosmic\-app\-template](https://github.com/pop-os/cosmic-app-template) - Project template for creating applications for the COSMIC™ desktop
 - [cosmic\-applet\-host](https://github.com/pop-os/cosmic-applet-host)
 - [cosmic\-applet\-template](https://github.com/pop-os/cosmic-applet-template) - Project template for creating applets for the COSMIC™ desktop
 - [cosmic\-applets](https://github.com/pop-os/cosmic-applets) - WIP applets for cosmic\-panel
-- [cosmic\-applibrary](https://github.com/pop-os/cosmic-applibrary) - WIP
 - [cosmic\-application\-template](https://github.com/pop-os/cosmic-application-template)
 - [cosmic\-bg](https://github.com/pop-os/cosmic-bg) - COSMIC session service which applies backgrounds to displays\.
 - [cosmic\-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
